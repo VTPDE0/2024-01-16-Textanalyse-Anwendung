@@ -20,7 +20,6 @@ public class Main {
 
         // Ausgabe der Ergebnisse
         System.out.println("Anzahl der Zeichen: " + zeichenAnzahl);
-
         scanner.close();
     }
 }

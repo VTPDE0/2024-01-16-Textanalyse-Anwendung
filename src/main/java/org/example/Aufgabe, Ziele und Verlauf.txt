@@ -29,5 +29,5 @@ ____________Verlauf:
 13:40? Internet is da
 13:40-14:30 Suche nach Methoden die könnten Wörter erkennen. Ich versuche Eingaben teilen da, wo Leertaste ist und diese getrennte Teile als Array zu speichern, so werden einzelne Wörter gezählt
 14:30-15:20 Scanner Objekt zum Eingaben ablesen ist erzeugt. Mit if Bedingung ich überprüfe jetzt ob wort "exit" geschrieben ist oder andere Text. Wenn "exit" geschrieben ist, dann Programm endet sich.
-15:20-15:50 ich habe alles dokumentiert was habe ich gemacht und habe festgestellt was und wie soll ich noch machen
-15:50-16:30 Zeichenzählung ist implementiert. Die Methode length() gibt die Länge des Strings text zurück
+15:20-15:40 ich habe alles dokumentiert was habe ich gemacht und habe festgestellt was und wie soll ich noch machen
+15:40-16:30 Zeichenzählung ist implementiert. Die Methode length() gibt die Länge des Strings text zurück
