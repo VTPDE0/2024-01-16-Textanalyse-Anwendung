@@ -11,13 +11,23 @@ Schreibe ein Java-Programm, das einen Text vom Benutzer einliest und verschieden
 - Beenden des Programms: Der Benutzer sollte das Programm beenden können.
 ____________Ziele:
 1) *gemacht um 08:06* mich bei Lukas/Martin melden
-2) *nicht gemacht* neue Aufgabe anfangen und möglichst weit durchmachen (Deadline ist Mittwoch Mittag)
-3) *nicht gemacht*  GitHub Repository erstellen
-4) *nicht gemacht* mich bei Lukas melden
+2) *gemacht* neue Aufgabe anfangen und möglichst weit durchmachen (Deadline ist Mittwoch Mittag)
+3) *gemacht*  GitHub Repository erstellen
+4) *gemacht* Möglichst detailliert dokumentieren alles, was ich mache
+5) *nicht gemacht* mich bei Lukas melden
 ____________Verlauf:
 08:00-08:30 Habe mich bei luw und mh gemeldet
 08:30 habe neue Aufgabe bekommen
 09:01 Internet ist weg
 09:18 Internet ist wieder da
 09:18-09:35 Aufgabe von luw ist durchgelesen und Gedanken über Erledigung gemacht
-09:35-10:xx da Thema neu ist, habe auf Baeldung und stackoverflow nach Tutorials gesucht
+09:35-10:50 da Thema neu ist, habe auf Baeldung und stackoverflow nach Tutorials gesucht
+10:50-11:20 habe mich auf externe Bibliothek java.util entschieden um Anzahl von Zeichen zu zählen
+11:20-12:50 habe auf stackoverflow Tutorials gefunden die zeigen, dass es möglich ist eine Map (Schlüssel-Wert-Paar-Struktur) für Suche nach am häufigsten genannten Wörtern zu nutzen
+12:50-13:20 Pause
+13:20 Internet ist weg
+13:40? Internet is da
+13:40-14:30 Suche nach Methoden die könnten Wörter erkennen. Ich versuche Eingaben teilen da, wo Leertaste ist und diese getrennte Teile als Array zu speichern, so werden einzelne Wörter gezählt
+14:30-15:20 Scanner Objekt zum Eingaben ablesen ist erzeugt. Mit if Bedingung ich überprüfe jetzt ob wort "exit" geschrieben ist oder andere Text. Wenn "exit" geschrieben ist, dann Programm endet sich.
+15:20-15:50 ich habe alles dokumentiert was habe ich gemacht und habe festgestellt was und wie soll ich noch machen
+15:50-16:30 Zeichenzählung ist implementiert. Die Methode length() gibt die Länge des Strings text zurück
