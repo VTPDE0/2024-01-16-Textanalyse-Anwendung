@@ -1,0 +1,23 @@
+2024-01-16:
+____________Aufgabe:
+Aufgabenstellung: Textanalyse
+
+Schreibe ein Java-Programm, das einen Text vom Benutzer einliest und verschiedene statistische Informationen über den Text ausgibt. Das Programm sollte die folgenden Funktionen bieten:
+
+- Zeichenzählung: Das Programm sollte die Anzahl der Zeichen im Text zählen, einschließlich Leerzeichen und Satzzeichen.
+- Wortzählung: Es sollte die Anzahl der Wörter im Text zählen. Wörter sind durch Leerzeichen getrennt.
+- Durchschnittliche Wortlänge: Das Programm sollte die durchschnittliche Länge der Wörter im Text berechnen (Summe der Längen aller Wörter / Anzahl der Wörter).
+- Häufigstes Wort: Das Programm sollte das am häufigsten vorkommende Wort im Text identifizieren und seine Anzahl im Text anzeigen.
+- Beenden des Programms: Der Benutzer sollte das Programm beenden können.
+____________Ziele:
+1) *gemacht um 08:06* mich bei Lukas/Martin melden
+2) *nicht gemacht* neue Aufgabe anfangen und möglichst weit durchmachen (Deadline ist Mittwoch Mittag)
+3) *nicht gemacht*  GitHub Repository erstellen
+4) *nicht gemacht* mich bei Lukas melden
+____________Verlauf:
+08:00-08:30 Habe mich bei luw und mh gemeldet
+08:30 habe neue Aufgabe bekommen
+09:01 Internet ist weg
+09:18 Internet ist wieder da
+09:18-09:35 Aufgabe von luw ist durchgelesen und Gedanken über Erledigung gemacht
+09:35-10:xx da Thema neu ist, habe auf Baeldung und stackoverflow nach Tutorials gesucht
