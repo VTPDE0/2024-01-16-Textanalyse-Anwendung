@@ -1,0 +1,14 @@
+Schritt 1: Zeichenzählung
+Wir zählen alle Zeichen im Text, einschließlich Leerzeichen und Satzzeichen. Dazu verwenden wir die Länge des eingegebenen Strings.
+
+Schritt 2: Wortzählung
+Wörter werden normalerweise durch Leerzeichen getrennt. Wir können die Methode split(" ") verwenden, um den Text in Wörter aufzuteilen und dann die Anzahl der Wörter zu zählen.
+
+Schritt 3: Durchschnittliche Wortlänge
+Nachdem wir alle Wörter gezählt haben, summieren wir ihre Längen und teilen sie durch die Anzahl der Wörter, um die durchschnittliche Wortlänge zu erhalten.
+
+Schritt 4: Häufigstes Wort
+Wir verwenden eine Map, um die Häufigkeit jedes Wortes zu zählen. Das am häufigsten vorkommende Wort wird identifiziert, indem wir die Map durchsuchen, um den höchsten Zählwert zu finden.
+
+Schritt 5: Beenden des Programms (eigentlich als Schritt 2 Gemacht habe)
+Der Benutzer kann das Programm beenden, indem er eine bestimmte Eingabe macht, z.B. "exit".

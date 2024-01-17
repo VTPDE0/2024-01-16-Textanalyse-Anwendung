@@ -1,4 +1,4 @@
-2024-01-16:
+2024-01-16(17):
 ____________Aufgabe:
 Aufgabenstellung: Textanalyse
 
@@ -10,11 +10,11 @@ Schreibe ein Java-Programm, das einen Text vom Benutzer einliest und verschieden
 - Häufigstes Wort: Das Programm sollte das am häufigsten vorkommende Wort im Text identifizieren und seine Anzahl im Text anzeigen.
 - Beenden des Programms: Der Benutzer sollte das Programm beenden können.
 ____________Ziele:
-1) *gemacht um 08:06* mich bei Lukas/Martin melden
-2) *gemacht* neue Aufgabe anfangen und möglichst weit durchmachen (Deadline ist Mittwoch Mittag)
-3) *gemacht*  GitHub Repository erstellen
-4) *gemacht* Möglichst detailliert dokumentieren alles, was ich mache
-5) *nicht gemacht* mich bei Lukas melden
+1) *gemacht um 08:06*   mich bei Lukas/Martin melden
+2) *gemacht*            neue Aufgabe anfangen und möglichst weit durchmachen (Deadline ist Mittwoch Mittag)
+3) *gemacht*            GitHub Repository erstellen
+4) *gemacht*            Möglichst detailliert dokumentieren alles, was ich mache
+5) *nicht gemacht*      mich bei Lukas melden
 ____________Verlauf:
 08:00-08:30 Habe mich bei luw und mh gemeldet
 08:30 habe neue Aufgabe bekommen
@@ -31,3 +31,23 @@ ____________Verlauf:
 14:30-15:20 Scanner Objekt zum Eingaben ablesen ist erzeugt. Mit if Bedingung ich überprüfe jetzt ob wort "exit" geschrieben ist oder andere Text. Wenn "exit" geschrieben ist, dann Programm endet sich.
 15:20-15:40 ich habe alles dokumentiert was habe ich gemacht und habe festgestellt was und wie soll ich noch machen
 15:40-16:30 Zeichenzählung ist implementiert. Die Methode length() gibt die Länge des Strings text zurück
+__________
+Eingabe-Scanner, If Bedingung zum Programm beenden und einige Ausgaben dafür sind erzeugt. Auch Zeichenzähler ist da.
+_____________________________________________________________________________________________________________________
+2024-01-17
+____________Ziele:
+1) *gemacht*        mich bei Lukas/Martin melden
+2) *gemacht*        Methoden für Wortzählung, durchschnittliche Wortlänge und häufigstes Wort implementieren
+4) *gemacht*        Möglichst detailliert dokumentieren alles, was ich mache, Logik.txt Datei erzeugen und da Anwendungsverlauf ohne Code beschreiben
+5) *nicht gemacht*  mich bei Lukas/Martin melden
+____________Verlauf:
+08:00-08:30 Habe zusammengefasst was habe ich gestern gemacht und was soll ich heute machen
+08:30 Telefonat mit luw
+08:30-08:45 extra Kommentare für bestehende Code
+08:45-09:00 mit Methode split(" ") Wortzählung ist implementiert. Ausgabe dafür ist ebenfalls implementiert
+09:00-09:30 durchschnittliche Wortlänge wird
+10:20 objekt.Methode(argument) - das muss ich mir merken
+09:30-10:45 mithilfe Map häufigste Wörter als Schlüssel-Wert-Parr gespeichert (Wort selber und Anzahl von Erwähnungen), gezählt und zurückgegeben werden
+10:45-11:00 Tests und Ausgabeanpassung
+11:00-11:40 alles was war nicht kommentiert/dokumentiert- habe ich ausführlich kommentiert/dokumentiert.
+11:40-11:50 noch ein Bisschen Tests

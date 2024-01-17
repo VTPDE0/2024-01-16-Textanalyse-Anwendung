@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bab4cb6-e2d2-4be4-9f94-f2823c8da57f" name="Changes" comment="v0.1 Aufgabe, Ziele und Verlauf">
+    <list default="true" id="7bab4cb6-e2d2-4be4-9f94-f2823c8da57f" name="Changes" comment="v0.2 Eingabe-Scanner, If Bedingung zum Programm beenden und einige Ausgaben dafür sind erzeugt. Auch Zeichenzähler ist da. Ohne Internet ich könnte nicht commiten, musste eigene Hotspot einrichten.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Logik.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Aufgabe, Ziele und Verlauf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Aufgabe, Ziele und Verlauf.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
@@ -63,11 +64,27 @@
       <option name="project" value="LOCAL" />
       <updated>1705395725901</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="v0.2 Eingabe-Scanner, If Bedingung zum Programm beenden und einige Ausgaben dafür sind erzeugt. Auch Zeichenzähler ist da">
+      <created>1705419137427</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705419137427</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v0.2 Eingabe-Scanner, If Bedingung zum Programm beenden und einige Ausgaben dafür sind erzeugt. Auch Zeichenzähler ist da. Ohne Internet ich könnte nicht commiten, musste eigene Hotspot einrichten.">
+      <created>1705419212704</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705419212704</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v0.1 Aufgabe, Ziele und Verlauf" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.1 Aufgabe, Ziele und Verlauf" />
+    <MESSAGE value="v0.2 Eingabe-Scanner, If Bedingung zum Programm beenden und einige Ausgaben dafür sind erzeugt. Auch Zeichenzähler ist da" />
+    <MESSAGE value="v0.2 Eingabe-Scanner, If Bedingung zum Programm beenden und einige Ausgaben dafür sind erzeugt. Auch Zeichenzähler ist da. Ohne Internet ich könnte nicht commiten, musste eigene Hotspot einrichten." />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.2 Eingabe-Scanner, If Bedingung zum Programm beenden und einige Ausgaben dafür sind erzeugt. Auch Zeichenzähler ist da. Ohne Internet ich könnte nicht commiten, musste eigene Hotspot einrichten." />
   </component>
 </project>
